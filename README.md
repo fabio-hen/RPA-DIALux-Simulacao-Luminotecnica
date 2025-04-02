@@ -1,32 +1,54 @@
-# Automação de Simulações Luminotécnicas em Vias com Python e DIALux
+# Automacao de Simulacoes Luminotecnicas em Vias com Python e DIALux
 
-Bem-vindo ao repositório da Automação de Simulações Luminotécnicas em Vias, uma ferramenta desenvolvida para agilizar e otimizar o processo de simulações luminotécnicas utilizando o software DIALux.
+Bem-vindo ao repositório da **Automacao de Simulacoes Luminotecnicas em Vias**, uma ferramenta desenvolvida para agilizar e otimizar o processo de simulacoes luminotecnicas utilizando o software **DIALux 4**.
 
-## Visão Geral
+## Visao Geral
 
-Este projeto foi criado com o objetivo de simplificar e acelerar a realização de simulações luminotécnicas em vias, empregando a combinação do renomado software DIALux com a flexibilidade e automação da linguagem de programação Python. Através dessa automação, fomos capazes de transformar um processo que anteriormente demandava em média 15 minutos por via, incluindo a transferência de características, simulações e geração de relatórios, em um processo extremamente eficiente que leva apenas 2 minutos.
+Este projeto foi criado com o objetivo de simplificar e acelerar a realizacao de simulacoes luminotecnicas em vias, empregando a combinacao do renomado software **DIALux 4** com a flexibilidade e automacao da linguagem de programacao **Python**. Através dessa automacao, conseguimos reduzir drasticamente o tempo necessário para cada simulação, de **15 minutos para apenas 2 minutos**.
+
+## Requisitos
+
+- **DIALux 4**: O software deve estar instalado no sistema para que a automacao funcione corretamente.
+- **Python 3.x**: Linguagem utilizada para desenvolver os scripts de automacao.
+- **Bibliotecas Adicionais**: Algumas bibliotecas Python podem ser necessarias para integracao com o DIALux e manipulacao de dados.
 
 ## Funcionalidades Principais
 
-- **Automatização de Processos**: Elimina a necessidade de copiar manualmente características das vias e colá-las no DIALux, além de conduzir as simulações luminotécnicas seguindo os rigorosos critérios da norma NBR5101.
+- **Automatizacao de Processos**:
+  - Elimina a necessidade de copiar manualmente caracteristicas das vias e colá-las no DIALux.
+  - Conduz as simulacoes luminotecnicas de acordo com os criterios estabelecidos pela norma **NBR 5101:2018**.
 
-- **Geração de Relatórios Completa**: A automação não apenas agiliza a simulação, mas também produz relatórios detalhados com resultados e análises.
+- **Geracao de Relatorios**:
+  - A automacao gera relatorios detalhados contendo resultados e analises tecnicas.
+  
+- **Economia de Tempo e Recursos**:
+  - Reducao do tempo de execucao de **15 minutos para 2 minutos por via**.
+  - Aumento significativo da eficiencia operacional e otimizacao do uso da mao de obra.
 
-- **Economia de Tempo e Recursos**: Graças à nossa automação, os tempos de execução foram reduzidos de 15 minutos para 2 minutos por via, resultando em uma economia significativa de recursos e aumento de eficiência operacional.
+## Beneficios
 
-## Benefícios
+- **Aumento da Capacidade Produtiva**:
+  - Antes, era possivel realizar de **20 a 50 simulacoes por dia**.
+  - Com a automacao, conseguimos executar de **20 a 30 simulacoes por hora**.
+  
+- **Precisao e Conformidade**:
+  - Garante aderencia total à norma **NBR 5101:2018**, reduzindo a margem de erro humano.
 
-- **Aumento da Capacidade Produtiva**: Antes, eram possíveis de 20 a 50 simulações por dia. Com a automação, conseguimos realizar de 20 a 30 simulações por hora, transformando nossa capacidade produtiva.
-
-- **Eficiência e Precisão**: A automação garante a conformidade estrita com a norma NBR5101 e reduz a possibilidade de erros humanos.
-
-- **Liberdade Criativa**: Ao eliminar tarefas repetitivas, permite que a equipe se concentre em análises e tomadas de decisão mais complexas e criativas.
+- **Foco em Tarefas Analiticas**:
+  - Reduz tarefas repetitivas e manuais, permitindo que os profissionais se concentrem em analises e decisoes tecnicas mais avancadas.
 
 ## Como Usar
 
+1. **Instale o DIALux 4** no seu sistema.
+2. **Configure o ambiente Python**, instalando as bibliotecas necessarias.
+3. **Execute o script Python** responsavel pela automacao.
+4. **Revise os resultados e relatorios gerados automaticamente**.
 
-## Contribuição
+## Contribuicao
 
-Este projeto foi desenvolvido para atender às necessidades específicas de nossa empresa. No entanto, estamos abertos a contribuições da comunidade para aprimorar e expandir a funcionalidade. Sinta-se à vontade para abrir "issues" e enviar "pull requests" para discutir e contribuir para este projeto.
+Este projeto foi desenvolvido para atender a necessidades especificas da empresa **KMR Energia e Meio Ambiente**. No entanto, estamos abertos a melhorias e contribuicoes da comunidade. Sinta-se a vontade para abrir "issues" e enviar "pull requests" para discutir e aprimorar este projeto.
 
 ---
+
+Caso tenha alguma duvida ou sugestao, entre em contato!
+
