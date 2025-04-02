@@ -46,7 +46,7 @@ Este projeto foi criado com o objetivo de simplificar e acelerar a realizacao de
 
 ## Contribuicao
 
-Este projeto foi desenvolvido para atender a necessidades especificas da empresa **KMR Energia e Meio Ambiente**. No entanto, estamos abertos a melhorias e contribuicoes da comunidade. Sinta-se a vontade para abrir "issues" e enviar "pull requests" para discutir e aprimorar este projeto.
+Este projeto foi desenvolvido para atender a necessidades especificas da empresa **KMR Energia e Meio Ambiente**. No entanto, estamos abertos a melhorias e contribuicoes da comunidade. Sinta-se a vontade para abrir para discutir e aprimorar este projeto.
 
 ---
 
